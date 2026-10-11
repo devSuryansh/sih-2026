@@ -1,0 +1,9 @@
+[submodule "projects/sih26085-urban-flood-nowcast"]
+	path = projects/sih26085-urban-flood-nowcast
+	url = https://github.com/devSuryansh/sih26085-urban-flood-nowcast.git
+[submodule "projects/sih26183-crypto-fraud-tracer"]
+	path = projects/sih26183-crypto-fraud-tracer
+	url = https://github.com/devSuryansh/sih26183-crypto-fraud-tracer.git
+[submodule "projects/sih26108-is-standards-recommender"]
+	path = projects/sih26108-is-standards-recommender
+	url = https://github.com/devSuryansh/sih26108-is-standards-recommender.git
